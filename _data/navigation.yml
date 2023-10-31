@@ -1,9 +1,7 @@
 # main links
 main:
   - title: "Category"
-    url: /categories/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: "Category"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -11,9 +9,9 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-  counts:
-    - title: "학원"
-      children:
-        -title: "23년 10월"
-          url: /categories/school
+counts:
+  - title: "학원"
+    children:
+      -title: "23년 10월"
+        url: /categories/school
     
