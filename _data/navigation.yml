@@ -12,8 +12,8 @@ main:
   #   url: /sitemap/
 
   counts:
-    - title: "카테고리"
-      use: true
-    - title: "태그"
-      use: true
+    - title: "학원"
+      children:
+        -title: "23년 10월"
+          url: /categories/school
     
