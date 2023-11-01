@@ -9,4 +9,12 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-    
+sidebar-category:
+  - title: "학원"
+    children:
+      - title: "2023년 10월"
+        url: "/2310_school"
+      - title: "2023년 11월"
+        url:  "/2311_school"
+      - title: "2023년 12월"
+        url:  "/2312_school"
