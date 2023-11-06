@@ -20,3 +20,7 @@ sidebar-category:
         url:  "/2311_school"
       - title: "2023년 12월"
         url:  "/2312_school"
+  - title: "스터디"
+    children:
+      - title: "과제"
+        url: "/homework"
