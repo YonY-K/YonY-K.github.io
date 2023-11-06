@@ -2,6 +2,8 @@
 title: "2023년 10월 학원"
 layout: archive
 permalink: /2310_school
+sidebar:
+    nav: "sidebar-category"
 ---
 
 

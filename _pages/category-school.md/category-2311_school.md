@@ -2,6 +2,8 @@
 title: "2023년 11월 학원"
 layout: archive
 permalink: /2311_school
+sidebar:
+    nav: "sidebar-category"
 ---
 
 
