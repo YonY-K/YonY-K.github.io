@@ -24,3 +24,8 @@ sidebar-category:
     children:
       - title: "과제"
         url: "/homework"
+  - title: "프로그래머스"
+    children:
+      - title: "코딩 기초 트레이닝"
+        url: "/basics_training"      
+      
