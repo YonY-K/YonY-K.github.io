@@ -6,5 +6,6 @@ sidebar:
     nav: "sidebar-category"
 ---
 
+
 {% assign posts = site.categories.school_202311week4 %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
