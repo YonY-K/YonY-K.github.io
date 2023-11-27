@@ -24,6 +24,8 @@ sidebar-category:
         url:  "/school_202311week3"
       - title: "2023년 11월 4주차"
         url:  "/school_202311week4"
+      - title: "2023년 11월 5주차"
+        url:  "/school_202311week5"
   - title: "스터디"
     children:
       - title: "과제"
