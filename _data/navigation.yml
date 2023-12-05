@@ -37,5 +37,6 @@ sidebar-category:
   - title: "프로그래머스"
     children:
       - title: "코딩 기초 트레이닝"
-        url: "/basics_training"      
-      
+        url: "/basics_training"  
+      - title: "코딩테스트 입문"
+        url: "/beginner"
