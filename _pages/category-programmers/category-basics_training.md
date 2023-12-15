@@ -2,8 +2,6 @@
 title: "프로그래머스 코딩 기초 트레이닝"
 layout: archive
 permalink: /basics_training
-sidebar:
-    nav: "sidebar-category"
 ---
 
 

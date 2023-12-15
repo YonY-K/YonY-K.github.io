@@ -291,6 +291,7 @@ defaults:
       comments: # true
       share: true
       related: false
+      classes: wide
       sidebar:
         nav: "sidebar-category"
 
@@ -301,6 +302,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "sidebar-category"
       classes: wide
 
 date_format: "%Y-%m-%d"
