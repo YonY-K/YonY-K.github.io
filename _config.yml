@@ -294,4 +294,13 @@ defaults:
       sidebar:
         nav: "sidebar-category"
 
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+
 date_format: "%Y-%m-%d"
