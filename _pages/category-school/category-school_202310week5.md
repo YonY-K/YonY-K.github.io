@@ -2,8 +2,6 @@
 title: "2023년 10월 학원 5주차"
 layout: archive
 permalink: /school_202310week5
-sidebar:
-    nav: "sidebar-category"
 ---
 
 

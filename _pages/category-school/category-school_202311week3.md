@@ -2,8 +2,6 @@
 title: "2023년 학원 11월 3주차"
 layout: archive
 permalink: /school_202311week3
-sidebar:
-    nav: "sidebar-category"
 ---
 
 

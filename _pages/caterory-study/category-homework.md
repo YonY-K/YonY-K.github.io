@@ -2,8 +2,6 @@
 title: "스터디 과제"
 layout: archive
 permalink: /homework
-sidebar:
-    nav: "sidebar-category"
 ---
 
 

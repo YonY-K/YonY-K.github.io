@@ -2,8 +2,6 @@
 title: "2023년 12월 학원 2주차"
 layout: archive
 permalink: /school_202312week2
-sidebar:
-    nav: "sidebar-category"
 ---
 
 
