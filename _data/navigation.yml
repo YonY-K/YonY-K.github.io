@@ -42,6 +42,8 @@ sidebar-category:
         url:  "/school_202401week2"
       - title: "2024년 1월 3주차"
         url:  "/school_202401week3"
+      - title: "2024년 1월 4주차"
+        url:  "/school_202401week4"        
   - title: "스터디"
     children:
       - title: "과제"
