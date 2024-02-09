@@ -49,7 +49,9 @@ sidebar-category:
       - title: "2024년 2월 1주차"
         url:  "/school_202402week1"  
       - title: "2024년 2월 2주차"
-        url:  "/school_202402week2"          
+        url:  "/school_202402week2"        
+      - title: "2024년 2월 3주차"
+        url:  "/school_202402week3"   
   - title: "스터디"
     children:
       - title: "과제"
