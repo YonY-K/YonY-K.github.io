@@ -70,6 +70,8 @@ sidebar-category:
     children:
       - title: "과제"
         url: "/homework"
+      - title: "개념정리"
+        url: "/theories"
   - title: "프로그래머스"
     children:
       - title: "코딩 기초 트레이닝"
