@@ -134,7 +134,7 @@ jobs:
           --s3-location bucket=$BUCKET_NAME,key=$GITHUB_SHA.zip,bundleType=zip
 ```
 
-4. s3 버킷의 이름과 codedeploy의 이름은 해당 서비스를 가면 확인할 수 있다.
+- s3 버킷의 이름과 codedeploy의 이름은 해당 서비스를 가면 확인할 수 있다.
 
 [![10 s3 이름](https://github.com/yony-k/yony-k.github.io/assets/109204976/02f53f79-93a1-47d0-8b42-b8fb29f426c7)](https://github.com/yony-k/yony-k.github.io/assets/109204976/02f53f79-93a1-47d0-8b42-b8fb29f426c7)
 
